@@ -51,7 +51,7 @@ M2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-featur
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.06</div><img src='images/teleoperation_for_smart_ward.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[智慧病房遥操作](https://cyber-bobo.github.io/)
+[智慧病房遥操作]( https://cyber-bobo.github.io/PROJECT-teleoperation_for_smart_ward)
 
 </div>
 </div>
