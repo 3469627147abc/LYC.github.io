@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "WYZYDY's Homepage"
-description              : "Homepage of WYZYDY"
+title                    : "Yuanchuan Lai - Homepage"
+description              : "2024级硕士研究生"
 repository               : "https://3469627147abc.github.io/LYC.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1xiFc3oAAAAJ"
-  email            : "wubh6@mail2.sysu.edu.cn"
+  email            : "laiych25@mail2.sysu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Cyber-BoBo # e.g., "github username"
+  github           : 3469627147ab # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
