@@ -28,14 +28,14 @@ redirect_from:
 
 # 📝 发表文章|Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/ICRA2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/ICRA2026_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-M2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network
+DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control
 
-**Bohong Wu**, Qing Gao*, yuanchuan lai, Zhang Huiwen
+**Yuanchuan Lai**, Qing Gao*, Ziyan Liang, Xianfeng Cheng, Junjie Hu, Zhaojie Ju
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://3469627147abc.github.io/DexTele/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 提出了一种基于视觉、骨骼信息的面向视频人物交互识别的多流多特征网络，在MPHOI-72、CAD-120和Bimanual Actions等数据集上实现了良好性能。
 </div>
 </div>
