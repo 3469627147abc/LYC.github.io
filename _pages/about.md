@@ -52,7 +52,7 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.01</div><img src='images/teleoperation_on_RM65b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[面向仓储物流场景的遥操作抓取](https://cyber-bobo.github.io/PROJECT-teleoperation_on_RM65b)
+[先汇|面向仓储物流场景的遥操作抓取](https://cyber-bobo.github.io/PROJECT-teleoperation_on_RM65b)
 
 </div>
 </div>
