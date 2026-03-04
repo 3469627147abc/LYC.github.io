@@ -22,13 +22,13 @@ redirect_from:
 
 
 # 🔥 近期新闻|News
-- *2026.01*: &nbsp;🎉🎉 论文DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control被ICRA 2026接收。
+- *2026.01*: &nbsp;🎉🎉 论文《DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control》被ICRA 2026接收。
 - *2025.07*: &nbsp;🎉🎉 发明专利《一种基于图神经网络的机器人重定向方法》被授权。
-- *2024.12*: &nbsp;🎉🎉 论文Motion Retargeting Using Graph Neural Network for Vision-Guided Dexterous Robot Teleoperation被IEEE i-CREATe接收。
+- *2024.12*: &nbsp;🎉🎉 论文《Motion Retargeting Using Graph Neural Network for Vision-Guided Dexterous Robot Teleoperation》被IEEE i-CREATe接收。
 
 # 📝 发表文章|Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMC 2025</div><img src='images/M2ST-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMC 2026</div><img src='images/M2ST-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 M2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network
