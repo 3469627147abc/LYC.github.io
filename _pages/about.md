@@ -72,5 +72,5 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 
 
 # 📖 教育背景|Educations
-- *2024.09 - 2026.03 (now)*, 硕士, 电子与通信工程学院， 中山大学 (推免).
-- *2020.09 - 2024.06*, 本科, 自动化与电子信息学院， 湘潭大学.
+- *2024.09 - 2026.03 (now)*, 硕士, 电子与通信工程学院, 中山大学 (推免).
+- *2020.09 - 2024.06*, 本科, 自动化与电子信息学院, 湘潭大学.
