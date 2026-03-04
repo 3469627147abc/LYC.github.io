@@ -35,7 +35,7 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 
 **Yuanchuan Lai**, Qing Gao*, Ziyan Liang, Xianfeng Cheng, Junjie Hu, Zhaojie Ju
 
-[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://3469627147abc.github.io/DexTele/)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](3469627147abc.github.io/DexTele/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 提出了一种基于视觉、骨骼信息的面向视频人物交互识别的多流多特征网络，在MPHOI-72、CAD-120和Bimanual Actions等数据集上实现了良好性能。
 </div>
 </div>
