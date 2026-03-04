@@ -28,7 +28,7 @@ redirect_from:
 
 # 📝 发表文章|Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMC 2026</div><img src='images/M2ST-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/ICRA2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 M2ST-Net: Human-Object Interaction Recognition Using A Multi-stream Multi-feature Spatial-Temporal Network
