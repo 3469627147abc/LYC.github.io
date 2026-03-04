@@ -28,7 +28,7 @@ redirect_from:
 
 # 📝 发表文章|Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/ICRA2026_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/ICRA2026_3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control
