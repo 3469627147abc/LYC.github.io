@@ -35,10 +35,14 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 
 **Yuanchuan Lai**, Qing Gao*, Ziyan Liang, Xianfeng Cheng, Junjie Hu, Zhaojie Ju
 
-[**Project**]([/DexTele/]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://3469627147abc.github.io/DexTele/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - 提出了一种基于运动重定向与自适应力控制的双臂灵巧遥操作系统 DexTele，实现了跨平台精确运动映射与顺应性抓取，并在多种机器人平台上验证了良好的泛化性能。
+
 </div>
 </div>
+
+
 
 - [Dynamic hand gesture recognition based on multi-skeletal features for sign language recognition system](https://link.springer.com/chapter/10.1007/978-981-99-6486-4_7) , **Bohong Wu**, Zhiwen Deng, Qing Gao*, **ICIRA 2023**
 
