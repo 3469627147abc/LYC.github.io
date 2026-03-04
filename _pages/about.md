@@ -42,14 +42,11 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 </div>
 </div>
 
-
-
-- [Dynamic hand gesture recognition based on multi-skeletal features for sign language recognition system](https://link.springer.com/chapter/10.1007/978-981-99-6486-4_7) , **Bohong Wu**, Zhiwen Deng, Qing Gao*, **ICIRA 2023**
+- [Motion Retargeting Using Graph Neural Network for Vision-Guided Dexterous Robot Teleoperation](https://ieeexplore.ieee.org/abstract/document/10776535) , **Yuanchuan Lai**, Zhaojie Ju , Qing Gao*, **i-CREATe 2024**
 
 
 # 📝 发表专利|Patents
-- *2025.04*: 《基于视频数据的多特征融合人物交互识别方法及装置》  发明专利
-- *2025.04*: 《基于视觉的仿人机械手臂多模式遥操作抓取方法及系统》  发明专利
+- *2025.07*: 《一种基于图神经网络的机器人重定向方法》  发明专利
 
 # 📝 项目经历|Project
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.06</div><img src='images/teleoperation_for_smart_ward.png' alt="sym" width="100%"></div></div>
