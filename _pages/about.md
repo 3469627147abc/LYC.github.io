@@ -49,15 +49,7 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 - *2025.07*: 《一种基于图神经网络的机器人重定向方法》  发明专利
 
 # 📝 项目经历|Project
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.06</div><img src='images/teleoperation_for_smart_ward.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[智慧病房遥操作]( https://cyber-bobo.github.io/PROJECT-teleoperation_for_smart_ward)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.12</div><img src='images/teleoperation_on_RM65b.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.01</div><img src='images/teleoperation_on_RM65b.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [面向仓储物流场景的遥操作抓取](https://cyber-bobo.github.io/PROJECT-teleoperation_on_RM65b)
@@ -65,11 +57,20 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.12</div><img src='images/fig3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[2024深圳市智能机器人灵巧手大赛](https://z-mingyu.github.io/Dexteroushand/)
+
+</div>
+</div>
+
 # 🎖 获奖情况|Awards
+- *2025.09* 获中山大学硕士研究生一等奖助金、小米奖学金
 - *2024.12* 获深圳市智能机器人灵巧手大赛三等奖 
-- *2024.09* 获中山大学硕士研究生一等奖助金
+
 
 
 # 📖 教育背景|Educations
-- *2023.09 - 2025.08 (now)*, 硕士, 电子与通信工程学院， 中山大学，深圳.
-- *2019.09 - 2023.06*, 本科, 电子与通信工程学院， 中山大学，深圳.
+- *2024.09 - 2026.03 (now)*, 硕士, 电子与通信工程学院， 中山大学，深圳.
+- *2020.09 - 2024.06*, 本科, 自动化与电子信息学院， 湘潭大学，湘潭.
