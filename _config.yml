@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "VVAVE's Homepage"
-description              : "Homepage of VVAVE"
-repository               : "Cyber-BoBo/cyber-bobo.github.io"
+title                    : "WYZYDY's Homepage"
+description              : "Homepage of WYZYDY"
+repository               : "https://3469627147abc.github.io/LYC.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "吴波鸿|Bohong Wu"
+  name             : "赖缘川|Yuanchuan Lai"
   avatar           : "images/BohongWu.png"
   bio              : "中山大学"
   bio_en           : "Sun Yat-sen University"
