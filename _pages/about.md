@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本人目前正在攻读硕士学位，就读于中山大学电子与通信工程学院 <a href='https://sysu-sail.net/'>空间智能实验室</a>，师从 <a href='https://jimmyqing.github.io/'>高庆 副教授</a>。本科毕业于湘潭大学自动化与电子信息学院自动化专业。在学期间，多次获得学业奖学金。研究方向主要包括机器人机器人灵巧操作、运动重定向与具身智能。
+本人目前正在攻读硕士学位，就读于中山大学电子与通信工程学院 <a href='https://sysu-sail.net/'>空间智能实验室</a>，师从 <a href='https://jimmyqing.github.io/'>高庆 副教授</a>。本科毕业于湘潭大学自动化与电子信息学院自动化专业。在学期间，多次获得学业奖学金。研究方向主要包括机器人灵巧操作、运动重定向与具身智能。
 <a href='https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=Rw4JzosAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
