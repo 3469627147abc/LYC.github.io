@@ -50,7 +50,7 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 
 # 📝 项目经历|Project
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.01</div><img src='images/IMG_20260209_154925.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.10</div><img src='images/IMG_20260209_154925.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [天奇-面向机器人具身智能的数据采集方法](https://3469627147abc.github.io/Tianqi/)
