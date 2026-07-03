@@ -22,6 +22,7 @@ redirect_from:
 
 
 # 🔥 近期新闻|News
+- *2026.03*: &nbsp;🎉🎉 论文《ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling》被IROS 2026接收。
 - *2026.01*: &nbsp;🎉🎉 论文《DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control》被ICRA 2026接收。
 - *2025.07*: &nbsp;🎉🎉 发明专利《一种基于图神经网络的机器人重定向方法》被授权。
 - *2024.12*: &nbsp;🎉🎉 论文《Motion Retargeting Using Graph Neural Network for Vision-Guided Dexterous Robot Teleoperation》被IEEE i-CREATe接收。
