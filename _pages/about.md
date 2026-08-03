@@ -29,7 +29,7 @@ redirect_from:
 
 # 📝 发表文章|Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/iros2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/iros2026_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling
