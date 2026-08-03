@@ -29,20 +29,6 @@ redirect_from:
 
 # 📝 发表文章|Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/ICRA2026_3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control
-
-**Yuanchuan Lai**, Qing Gao*, Ziyan Liang, Xianfeng Cheng, Junjie Hu, Zhaojie Ju
-
-[**Project**](https://3469627147abc.github.io/DexTele/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- 提出了一种基于运动重定向与自适应力控制的双臂灵巧遥操作系统 DexTele，实现了跨平台精确运动映射与顺应性抓取，并在多种机器人平台上验证了良好的泛化性能。
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/iros2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,6 +39,20 @@ ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic A
 [**Project**](https://3469627147abc.github.io/ObjRetarget/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - 提出了一种面向人类视频学习的机器人运动重定向框架 ObjRetarget，通过拟人化轨迹优化与几何接触建模，实现了自然运动映射与稳定灵巧操作，并在多种任务中验证了良好的泛化性能。
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/ICRA2026_3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control
+
+**Yuanchuan Lai**, Qing Gao*, Ziyan Liang, Xianfeng Cheng, Junjie Hu, Zhaojie Ju
+
+[**Project**](https://3469627147abc.github.io/DexTele/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- 提出了一种基于运动重定向与自适应力控制的双臂灵巧遥操作系统 DexTele，实现了跨平台精确运动映射与顺应性抓取，并在多种机器人平台上验证了良好的泛化性能。
 
 </div>
 </div>
