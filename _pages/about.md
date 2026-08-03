@@ -66,7 +66,7 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 # 💻 实习
 - 2026.05 - 至今, [智元机器人(Agibot)](https://www.agibot.com.cn/), 上海.
  - 双臂遥操作系统项目：基于 Wuji 灵巧手 与 Genie G2 机器人搭建 VR 遥操作系统，实现人手动作到机器人双臂与灵巧手的实时运动映射；负责遥操作系统集成、运动控制及真机调试，为后续 VLA 数据采集与策略训练提供稳定的数据采集平台。
- - 共享控制 Type-Conditioned VLA 灵巧操作框架： 构建共享控制的 VLA 灵巧操作框架，通过 VR 遥操作完成机械臂接近目标，灵巧手结合物体类别自主生成抓取手势并完成抓取；完成网络框架优化、数据采集与模型训练，并部署至真实机器人平台进行验证，相关工作已投稿 ICRA 2027。
+ - 共享控制 Type-Conditioned VLA 灵巧操作框架： 构建共享控制的 VLA 灵巧操作框架，通过 VR 遥操作完成机械臂接近目标，灵巧手结合物体类别自主生成抓取手势并完成抓取；完成网络框架设计、数据采集与模型训练，并部署至真实机器人平台进行验证，相关工作已投稿 ICRA 2027。
 
 # 📝 项目经历|Project
 
