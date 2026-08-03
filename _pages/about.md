@@ -43,6 +43,20 @@ DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting a
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/iros2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling
+
+**Yuanchuan Lai**, Qing Gao*, Ziyan Liang, Junjie Hu, Zhaojie Ju
+
+[**Project**](https://3469627147abc.github.io/ObjRetarget/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- 提出了一种面向人类视频学习的机器人运动重定向框架 ObjRetarget，通过拟人化轨迹优化与几何接触建模，实现了自然运动映射与稳定灵巧操作，并在多种任务中验证了良好的泛化性能。
+
+</div>
+</div>
+
 - [Motion Retargeting Using Graph Neural Network for Vision-Guided Dexterous Robot Teleoperation](https://ieeexplore.ieee.org/abstract/document/10776535) , **Yuanchuan Lai**, Zhaojie Ju , Qing Gao*, **i-CREATe 2024**
 
 
