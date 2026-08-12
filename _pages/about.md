@@ -30,7 +30,7 @@ redirect_from:
 
 # 📝 发表文章|Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE Journal</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE Journal</div><img src='images/TASE1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Vision-Guided Motion Retargeting Based on Graph Neural Network for Dexterous Robot
