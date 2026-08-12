@@ -22,12 +22,26 @@ redirect_from:
 
 
 # 🔥 近期新闻|News
+- *2026.08*: &nbsp;🎉🎉 论文《Vision-Guided Arm-Hand Decoupled Motion Retargeting Using Graph Networks for Cross-Platform Robots》被IEEE TASE Journal接收。
 - *2026.03*: &nbsp;🎉🎉 论文《ObjRetarget: An Object-Aware Motion Retargeting Framework with Anthropomorphic Arm Constraints and Polyhedral Hand Modeling》被IROS 2026接收。
 - *2026.01*: &nbsp;🎉🎉 论文《DexTele: A Dual-Arm Dexterous Teleoperation System Based on Motion Retargeting and Adaptive Force Control》被ICRA 2026接收。
 - *2025.07*: &nbsp;🎉🎉 发明专利《一种基于图神经网络的机器人重定向方法》被授权。
 - *2024.12*: &nbsp;🎉🎉 论文《Motion Retargeting Using Graph Neural Network for Vision-Guided Dexterous Robot Teleoperation》被IEEE i-CREATe接收。
 
 # 📝 发表文章|Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE Journal</div><img src='images/TASE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Vision-Guided Motion Retargeting Based on Graph Neural Network for Dexterous Robot
+
+**Yuanchuan Lai**, Qing Gao*, Xin Zhang, Zhaojie Ju
+
+[**Project**](https://3469627147abc.github.io/GNNRetarget./) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- 提出了一种面向人类视频学习的跨平台机器人运动重定向框架 GNNRetarget，通过臂-手解耦架构与图神经网络潜在空间优化，实现了无需配对数据的高精度运动映射与异构平台泛化，并在 RMC-DA、YuMi 和 Unitree H1 等多种机器人上验证了良好的泛化性能与重定向精度。
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/iros2026_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
